@@ -1,7 +1,10 @@
 # main links links
 main:
-- title: "Home"
+  - title: "Home"
     url: 
+
+  - title: "News"
+    url: /year-archive/
 
   - title: "Publications"
     url: /publications/
@@ -12,11 +15,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Awards"
     url: /portfolio/
-        
-  - title: "News"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
