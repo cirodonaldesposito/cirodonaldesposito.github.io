@@ -13,7 +13,7 @@ My research
 ======
 My research is funded by the European Union’s Horizon 2020 Research and Innovation Programme. I am interested in how we can detect emerging knowledge and how this affects venture financing, and alliance formation. Particular focus is given to text analysis.
 
-[](profile.png)
+![Model](profile.png)
 
 My background
 ======
@@ -21,4 +21,4 @@ I obtained my master's degree in Economics & Finance and my bachelor's degree in
 
 For more info
 ------
-More info about my research can be found on the OrganoVIR [website](https://organovir.com/ciro-esposito/), and on the Amsterdam Business School [website](https://abs.uva.nl/research/phd-research/phd-projects/ciro-esposito.html).
+More info about my research can be found on the Amsterdam Business School [website](https://abs.uva.nl/research/phd-research/phd-projects/ciro-esposito.html), and on the OrganoVIR [website](https://organovir.com/ciro-esposito/).
