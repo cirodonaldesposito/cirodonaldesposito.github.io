@@ -7,13 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm Ciro, a Ph.D. student at the [University of Amsterdam](https://www.uva.nl/en), conducting research at the intersection of management and natural language processing (NLP). I am part of the [Entrepreneurship & Innovation section](https://abs.uva.nl/content/sections/entrepeneurship-innovation/entrepreneurship-innovation.html), led by [Martin Obschonka](https://abs.uva.nl/profile/o/b/m.obschonka/m.obschonka.html?origin=p11pvOsST7%2BpQyiSE%2BEhzg). My Ph.D. supervisors are [Nachoem Wijnberg](), [Balazs Szatmari](https://www.uva.nl/en/profile/s/z/b.szatmari/b.szatmari.html), and [Jonathan Sitruk](https://www.uva.nl/en/profile/s/i/j.m.c.sitruk/j.m.c.sitruk.html).
-
+Hello! I'm Ciro, a Ph.D. student at the [University of Amsterdam](https://www.uva.nl/en), conducting research at the intersection of management and natural language processing (NLP). I am part of the [Entrepreneurship & Innovation](https://abs.uva.nl/content/sections/entrepeneurship-innovation/entrepreneurship-innovation.html) section, led by [Martin Obschonka](https://abs.uva.nl/profile/o/b/m.obschonka/m.obschonka.html?origin=p11pvOsST7%2BpQyiSE%2BEhzg). My Ph.D. supervisors are [Nachoem Wijnberg](), [Balazs Szatmari](https://www.uva.nl/en/profile/s/z/b.szatmari/b.szatmari.html), and [Jonathan Sitruk](https://www.uva.nl/en/profile/s/i/j.m.c.sitruk/j.m.c.sitruk.html). I have been a visiting scholar at the [House of Innovation](https://www.hhs.se/houseofinnovation), Stockholm School of Economics.
 
 My research
 ======
-XXX
+I am interested in how we can detect emerging knowledge and how this affects venture financing, and alliance formation. Particular focus is given to text analysis.
+
+My background
+======
+I obtained my master's degree in Economics & Finance and my bachelor's degree in Economics at the University of Pavia, [Department of Economics and Management](https://economiaemanagement.dip.unipv.it/en). My master's thesis "Empirical Testing of One-Factor Capital Asset Pricing Model and Arbitrage Pricing Theory: Evidence from the Italian Stock Market" was supervised by Enrico Cotta Ramusino. During my graduate studies, I worked as an academic and private tutor, student guidance counsellor and assistant at the secretarial office of the University of Pavia. I also have professional working experience as an intern in public administration. 
 
 For more info
 ------
-More info about my research can be found in XXX
+More info about my research can be found on the OrganoVIR [website](https://organovir.com/ciro-esposito/), and on the Amsterdam Business School [website](https://abs.uva.nl/research/phd-research/phd-projects/ciro-esposito.html).
