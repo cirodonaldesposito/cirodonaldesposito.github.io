@@ -2,7 +2,7 @@
 title: "EGOS 2021 Paper presentation: Getting off to a good start: emerging scientific fields and external financing"
 collection: talks
 type: "Conference Proceeding Talk"
-permalink: /talks/2021-07-08-talk-getting-off-to-a-good-start-emerging-scientific-fields-external-financing
+permalink: /talks/2021-07-08-talk-EGOS-2021-getting-off-to-a-good-start-emerging-scientific-fields-external-financing
 venue: "37th EGOS Colloquium 2021"
 date: 2021-07-08
 location: "Vrije Universiteit Amsterdam (VU), Amsterdam, The Netherlands"
