@@ -1,5 +1,5 @@
 ---
-title: "Getting off to a good start: emerging scientific fields and external financing"
+title: "Paper presentation: Getting off to a good start: emerging scientific fields and external financing"
 collection: talks
 type: "Conference Proceeding Talk"
 permalink: /talks/2022-08-08-getting-off-to-a-good-start-emerging-scientific-fields-external-financing
