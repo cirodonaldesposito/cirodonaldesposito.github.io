@@ -1,7 +1,7 @@
 ---
 title: "Paper presentation: "Getting off to a good start: emerging scientific fields and external financing""
 collection: talks
-type: "Conference Proceeding Talk"
+type: "Talk"
 permalink: /talks/2021-07-08-talk-getting-off-to-a-good-start-emerging-scientific-fields-external-financing.md
 venue: "37th EGOS Colloquium 2021"
 date: 2021-07-08
