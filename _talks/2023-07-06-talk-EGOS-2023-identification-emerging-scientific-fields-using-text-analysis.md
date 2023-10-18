@@ -8,4 +8,4 @@ date: 2023-07-06
 location: "University of Cagliari, Cagliari, Italy"
 ---
 
-[More information here](https://www.egos.org/jart/prj3/egos/main.jart?rel=de&reserve-mode=active&content-id=1610525130808&subtheme_id=1573461260191&show_prog=yes)
+[More information here](https://www.egos.org/jart/prj3/egos/main.jart?rel=de&reserve-mode=active&content-id=1658501434997&subtheme_id=1637466406542&show_prog=yes)
