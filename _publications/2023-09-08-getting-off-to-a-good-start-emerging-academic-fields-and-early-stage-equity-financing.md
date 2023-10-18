@@ -1,7 +1,7 @@
 ---
 title: "Getting off to a good start: emerging academic fields and early-stage equity financing"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-09-08-getting-off-to-a-good-start-emerging-academic-fields-and-early-stage-equity-financing
 excerpt: 'Prior studies show that access to academic knowledge plays a crucial role in new venture financing. We extend this research by shifting the focus from the access to academic knowledge to the developmental state of the academic field, where the academic knowledge is generated. Using natural language processing (NLP), we clustered peer-reviewed academic knowledge from Scopus into various fields. We then analyzed a sample of 341 new biotech ventures from Crunchbase to determine if increased past activity by (1) academics and (2) early-stage venture investors in a particular academic field is associated with the early-stage equity financing of new ventures associated with that field. We found that new ventures associated with academic fields for which academic activity has grown in the past receive more early-stage equity capital. However, contrary to our expectations, we also revealed that when a particular academic field shows greater early-stage venture investments in the past, the amount of early-stage equity capital received by subsequent ventures associated with the same academic field decreases. This suggests that while emerging academic fields signal the presence of business opportunities with high reward potential, past increase in the number of investments by peer early-stage investors associated with a particular academic field signals the opposite.'
 date: 2023-09-08
 venue: 'Small Business Economics'
