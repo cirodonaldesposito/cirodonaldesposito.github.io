@@ -1,13 +1,12 @@
 ---
 title: "Getting off to a good start: emerging scientific fields and external financing"
 collection: talks
-type: "Tutorial"
+type: "Talk"
 permalink: /talks/2022-08-08-getting-off-to-a-good-start-emerging-scientific-fields-external-financing
 venue: "82nd Annual Meeting of the Academy of Management"
 date: 2022-08-08
 location: "Seattle WA, USA"
 ---
 
-[More information here](http://exampleurl.com)
+[More information here](https://journals.aom.org/doi/10.5465/AMBPP.2022.10710abstract)
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
