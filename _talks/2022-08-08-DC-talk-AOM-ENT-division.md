@@ -1,5 +1,5 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Doctoral Consortium AOM 2022 ENT division"
 collection: talks
 type: "Doctoral Consortium Talk"
 permalink: /talks/2022-08-08-DC-talk-AOM-ENT-division
