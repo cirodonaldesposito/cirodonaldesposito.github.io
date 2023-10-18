@@ -1,5 +1,5 @@
 ---
-title: "AOM 2022 Paper presentation: Getting off to a good start: emerging scientific fields and external financing"
+title: "ACERE 2023 Paper presentation: Getting off to a Good Start: How Past Scientific and Venture Investment Activities in Research Fields affect Initial External Venture Financing"
 collection: talks
 type: "Conference Proceeding Talk"
 permalink: /talks/2023-02-09-talk-ACERE-2023-getting-off-to-a-good-start-how-past-scientific-venture-investment-activities-in-research-fields-affect-initial-external-venture-financing
