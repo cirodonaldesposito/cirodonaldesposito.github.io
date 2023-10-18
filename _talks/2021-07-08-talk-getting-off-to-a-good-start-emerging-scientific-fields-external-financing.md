@@ -1,5 +1,5 @@
 ---
-title: "Paper presentation: Getting off to a good start: emerging scientific fields and external financing"
+title: "EGOS 2021 Paper presentation: Getting off to a good start: emerging scientific fields and external financing"
 collection: talks
 type: "Conference Proceeding Talk"
 permalink: /talks/2021-07-08-talk-getting-off-to-a-good-start-emerging-scientific-fields-external-financing
