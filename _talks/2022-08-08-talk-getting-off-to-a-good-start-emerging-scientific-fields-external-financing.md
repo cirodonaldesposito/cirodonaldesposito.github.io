@@ -8,5 +8,5 @@ date: 2022-08-08
 location: "Seattle WA, USA"
 ---
 
-[More information here](https://journals.aom.org/doi/10.5465/AMBPP.2022.10710abstract)
+[Conference proceeding here](https://journals.aom.org/doi/10.5465/AMBPP.2022.10710abstract)
 
