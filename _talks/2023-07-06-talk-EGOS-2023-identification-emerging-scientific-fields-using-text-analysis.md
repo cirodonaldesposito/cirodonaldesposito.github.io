@@ -3,7 +3,7 @@ title: "EGOS 2023 Paper presentation: Identification of emerging scientific fiel
 collection: talks
 type: "Conference Proceeding Talk"
 permalink: /talks/2023-07-06-talk-EGOS-2023-identification-emerging-scientific-fields-using-text-analysis
-venue: "39th EGOS Colloquium 2021"
+venue: "39th EGOS Colloquium 2023"
 date: 2023-07-06
 location: "University of Cagliari, Cagliari, Italy"
 ---
