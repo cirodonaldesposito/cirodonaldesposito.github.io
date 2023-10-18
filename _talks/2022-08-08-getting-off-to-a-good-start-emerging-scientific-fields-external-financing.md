@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /talks/2022-08-08-getting-off-to-a-good-start-emerging-scientific-fields-external-financing
 venue: "82nd Annual Meeting of the Academy of Management"
 date: 2022-08-08
-location: "Seattle CA, USA"
+location: "Seattle WA, USA"
 ---
 
 [More information here](http://exampleurl.com)
