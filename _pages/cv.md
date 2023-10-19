@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Email](mailto:c.d.esposito@uva.nl)
+Please [email](mailto:c.d.esposito@uva.nl) me for the latest cv.
 
 
