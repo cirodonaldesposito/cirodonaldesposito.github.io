@@ -1,11 +1,12 @@
 ---
 layout: archive
 title: "CV"
-permalink: mailto:c.d.esposito@uva.nl
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+[Email](mailto:c.d.esposito@uva.nl)
 
 {% include base_path %}
 
