@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: "mailto:c.d.esposito@uva.nl"
 author_profile: true
 redirect_from:
   - /resume
