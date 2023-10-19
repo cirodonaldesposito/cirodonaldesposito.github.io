@@ -1,5 +1,5 @@
 ---
-title: "Cases in Entrepreneurship 2021"
+title: "Cases in Entrepreneurship, A.Y. 2020-2021"
 collection: teaching
 type: "BSc"
 permalink: /teaching/2020-2021-cases-in-entrepreneurship
