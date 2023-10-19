@@ -8,6 +8,4 @@ redirect_from:
 ---
 [Email](mailto:c.d.esposito@uva.nl)
 
-{% include base_path %}
-
 
