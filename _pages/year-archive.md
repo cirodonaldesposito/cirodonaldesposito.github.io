@@ -7,4 +7,4 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-Please visit my [LinkedIn](https://www.linkedin.com/in/cirodonaldesposito/) page for the latest news.
+Please visit my [LinkedIn](https://www.linkedin.com/in/cirodonaldesposito/) and [Twitter](https://twitter.com/CiroDEsposito) pages for the latest news.
