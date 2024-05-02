@@ -12,4 +12,4 @@ Prior studies show that access to academic knowledge plays a crucial role in new
 
 [Download paper here](https://link.springer.com/article/10.1007/s11187-023-00816-9)
 
-Recommended citation: Esposito, C. D., Szatmari, B., Sitruk, J. M., & Wijnberg, N. M. (2024). "Getting off to a good start: emerging academic fields and early-stage equity financing." <i>Small Business Economics</i> 62, 1591-1613. https://doi.org/10.1007/s11187-023-00816-9
+Recommended citation: Esposito, C. D., Szatmari, B., Sitruk, J. M. C., & Wijnberg, N. M. (2024). Getting off to a good start: emerging academic fields and early-stage equity financing. <i>Small Business Economics</i> 62, 1591-1613. https://doi.org/10.1007/s11187-023-00816-9
