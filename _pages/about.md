@@ -18,7 +18,7 @@ My research is funded by the European Union’s Horizon 2020 Research and Innova
 
 My supervision
 ======
-So far, I have mentored over 35 master's and bachelor's students on various topics (e.g., artificial intelligence and innovation, hype, social entrepreneurship, sustainability). Notably, some of my students have been recognized as finalists for prestigious awards. Specifically, in 2024, one of my master's students emerged as one of the top three finalists for the ASF Thesis Prize (€1500), sponsored by the University of Amsterdam. Additionally, in both 2022 and 2023, two of my master's students were among the top three finalists for the George Molenkamp Sustainability Thesis Award (€1000), sponsored by KPMG and the University of Amsterdam.
+So far, I have mentored over 35 master's and bachelor's students on various topics that extend beyond the boundaries of my own Ph.D. investigations (e.g., AI and innovation, hype, social entrepreneurship, sustainability). Notably, some of my students have been recognized as finalists for prestigious awards. Specifically, in 2024, one of my master's students emerged as one of the top three finalists for the ASF Thesis Prize (€1500), sponsored by the University of Amsterdam. Additionally, in both 2022 and 2023, two of my master's students were among the top three finalists for the George Molenkamp Sustainability Thesis Award (€1000), sponsored by KPMG and the University of Amsterdam.
 
 My teaching
 ======
