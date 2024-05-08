@@ -11,10 +11,18 @@ Hello! I'm Ciro, a Ph.D. candidate at the [University of Amsterdam](https://www.
 
 My research
 ======
-My research is funded by the European Union’s Horizon 2020 Research and Innovation Programme. I am interested in how we can detect emerging knowledge and how this affects venture financing, and alliance formation. Particular focus is given to text analysis.
+My research is funded by the European Union’s Horizon 2020 Research and Innovation Programme. I am interested in how we can detect emerging scientific fields and how these affect venture financing, and alliance formation, with specific emphasis on text analysis. In 2023, I was awarded a research grant by the European Academy of Management to investigate the influence of exaggeration on venture financing.
 
 ![Model](https://cirodonaldesposito.github.io/images/uva.jpg)
 ![Model](https://cirodonaldesposito.github.io/images/organovir.jpg)
+
+My supervision
+======
+So far, I have mentored over 35 master's and bachelor's students on various topics (e.g., artificial intelligence and innovation, hype, social entrepreneurship, sustainability). Notably, some of my students have been recognized as finalists for prestigious awards. Specifically, in 2024, one of my master's students emerged as one of the top three finalists for the ASF Thesis Prize (€1500), sponsored by the University of Amsterdam. Additionally, in both 2022 and 2023, two of my master's students were among the top three finalists for the George Molenkamp Sustainability Thesis Award (€1000), sponsored by KPMG and the University of Amsterdam.
+
+My teaching
+======
+Throughout the years, I have actively participated in numerous courses within the Business Administration track at the University of Amsterdam. These include modules such as "Unnovation Management," "Entrepreneurship in Science and Technology," "Digital Innovation and Entrepreneurship," and "Digital Business Models." You can find further details about these courses [here](https://cirodonaldesposito.github.io/teaching/).
 
 My background
 ======
