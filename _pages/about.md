@@ -20,4 +20,4 @@ My background
 ======
 I obtained my master's degree in Economics & Finance and my bachelor's degree in Economics at the University of Pavia, [Department of Economics and Management](https://economiaemanagement.dip.unipv.it/en). My master's thesis entitled "Empirical Testing of One-Factor Capital Asset Pricing Model and Arbitrage Pricing Theory: Evidence from the Italian Stock Market" was supervised by [Enrico Cotta Ramusino](https://www.embaticinensis.eu/persone/enrico-cotta-ramusino/#:~:text=Professore%20di%20Strategia%20e%20Finanza,Universit%C3%A0%20di%20Bocconi%20di%20Milano.). During my graduate studies, I worked as an academic and private tutor, student guidance counsellor and assistant at the secretarial office of the University of Pavia. I also have professional working experience as an intern in public administration. 
 
-![Model](https://cirodonaldesposito.github.io/images/unipv.png)
+![Model](https://cirodonaldesposito.github.io/images/unipv.jpg)
