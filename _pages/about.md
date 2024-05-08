@@ -20,6 +20,8 @@ My supervision
 ======
 So far, I have mentored over 35 master's and bachelor's students on various topics that extend beyond the boundaries of my own Ph.D. investigations (e.g., AI and innovation, hype, social entrepreneurship, sustainability). Notably, some of my students have been recognized as finalists for prestigious awards. Specifically, in 2024, one of my master's students emerged as one of the top three finalists for the ASF Thesis Prize (€1500), sponsored by the University of Amsterdam. Additionally, in both 2022 and 2023, two of my master's students were among the top three finalists for the George Molenkamp Sustainability Thesis Award (€1000), sponsored by KPMG and the University of Amsterdam.
 
+![Model](https://cirodonaldesposito.github.io/images/kpmg.png)
+
 My teaching
 ======
 Throughout the years, I have actively participated in numerous courses within the Business Administration track at the University of Amsterdam. These include courses such as "Innovation Management," "Entrepreneurship in Science and Technology," "Digital Innovation and Entrepreneurship," and "Digital Business Models." You can find further details about these courses [here](https://cirodonaldesposito.github.io/teaching/).
