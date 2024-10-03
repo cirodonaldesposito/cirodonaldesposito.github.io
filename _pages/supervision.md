@@ -8,7 +8,7 @@ redirect_from:
 ---
 Master's degree
 ======
-Raluca Dewald, Seed it up: the ffects of team gender-ratio, industry knowledge and economic freedom on the seed funding of startups, 19-20
+Raluca Dewald, <em>Seed it up: the ffects of team gender-ratio, industry knowledge and economic freedom on the seed funding of startups</em>, 19-20
 
 Bachelor's degree
 ======
