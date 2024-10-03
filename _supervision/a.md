@@ -1,5 +1,5 @@
 ---
-title: "Cases in Entrepreneurship, A.Y. 2020-2021"
+title: "a"
 collection: supervision
 type: "BSc"
 permalink: /supervision/a
