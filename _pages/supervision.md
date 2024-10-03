@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /supervision
 ---
-MSc
+Master's degree
 ======
 
 
-BSc
+Bachelor's degree
 ======
