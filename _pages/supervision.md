@@ -13,7 +13,7 @@ Master's degree
 <li>Cornelis Petrus Junior de Nijs, <em>Overcoming barriers of the circular economy in the dutch construction industry</em>, A.Y. 2023-2024</li>
 <li>Isabelle Beijersbergen, <em>The impact of corporate social responsibility disclosure on firm value: a quantitative review on the moderating effects of external assurance and quality assessment</em>, A.Y. 2023-2024</li>
 <li>Lisa Arakelian, <em>Exaggeration in social media advertisements: analyzing its effects on consumer behavior</em>, A.Y. 2023-2024</li>
-<li><p>Roan Hoogervorst, <em>Effects of funding goal and campaign duration on the performance of crowdfunding campaigns: the moderating role of the technology sector</em>, A.Y. 2023-2024</li><a href="[https://scripties.uba.uva.nl/download?fid=c11257248">PDF</a></p>
+<li>Roan Hoogervorst, <em>Effects of funding goal and campaign duration on the performance of crowdfunding campaigns: the moderating role of the technology sector</em>, A.Y. 2023-2024</li><a href="[https://scripties.uba.uva.nl/download?fid=c11257248">PDF</a>
 <li>Saffraan Bain, <em>Framing sustainability: Investigating the impact of green demarketing campaigns on consumers' intention to reduce meat consumption and the moderating roles of message source and environmental knowledge</em>, A.Y. 2023-2024</li>
 <li>Xinyu Qiao, <em>The impact of social media networks on crowdfunding success</em>, A.Y. 2023-2024</li>
 <li>Yuxuan Wu, <em>An investigation of how open innovation strategies in the digital consumer engagement impact on the performance of restaurant SMEs</em>, A.Y. 2023-2024</li> - <a href="https://scripties.uba.uva.nl/download?fid=c11260293">PDF</a>
