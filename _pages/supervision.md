@@ -13,7 +13,7 @@ Master's degree
 <li>Cornelis Petrus Junior de Nijs, <em>Overcoming barriers of the circular economy in the dutch construction industry</em>, A.Y. 2023-2024</li>
 <li>Isabelle Beijersbergen, <em>The impact of corporate social responsibility disclosure on firm value: a quantitative review on the moderating effects of external assurance and quality assessment</em>, A.Y. 2023-2024</li>
 <li>Lisa Arakelian, <em>Exaggeration in social media advertisements: analyzing its effects on consumer behavior</em>, A.Y. 2023-2024</li>
-<li>Roan Hoogervorst, <em>Effects of funding goal and campaign duration on the performance of crowdfunding campaigns: the moderating role of the technology sector</em>, A.Y. 2023-2024 - <a href="[https://scripties.uba.uva.nl/download?fid=c11257248">PDF</a></li>
+<li>Roan Hoogervorst, <em>Effects of funding goal and campaign duration on the performance of crowdfunding campaigns: the moderating role of the technology sector</em>, A.Y. 2023-2024 - <a href="https://scripties.uba.uva.nl/download?fid=c11257248">PDF</a></li>
 <li>Saffraan Bain, <em>Framing sustainability: Investigating the impact of green demarketing campaigns on consumers' intention to reduce meat consumption and the moderating roles of message source and environmental knowledge</em>, A.Y. 2023-2024</li>
 <li>Xinyu Qiao, <em>The impact of social media networks on crowdfunding success</em>, A.Y. 2023-2024</li>
 <li>Yuxuan Wu, <em>An investigation of how open innovation strategies in the digital consumer engagement impact on the performance of restaurant SMEs</em>, A.Y. 2023-2024 - <a href="https://scripties.uba.uva.nl/download?fid=c11260293">PDF</a></li>
@@ -28,7 +28,7 @@ Exploratory and Exploitative Green Alliances in the Dutch Festival Industry</em>
 <li>Lou-Lou Carmiggelt, <em>Consumer demand of hyper-personalized offerings of grocery providers</em>, A.Y. 2021-2022</li>
 <li>Lars Aalders, <em>Does it pay to be green? The mediating effect of sustainability-oriented product innovation on the relationship between sustainability orientation and financial performance</em>, A.Y. 2021-2022 - <a href="https://scripties.uba.uva.nl/download?fid=c6975004">PDF</a></li>
 <li>Lisa van ‘t Geloof, <em>Tech startup venture capital investments: do age and previous experience of the founder matter? </em>, A.Y. 2020-2021</li>
-<li>Nina Kruimer, <em>Online users’ feedback and companies’ greenwashing practices</em>, A.Y. 2020-2021 - <a href="https://scripties.uba.uva.nl/download?fid=c6975004">PDF</a></li>
+<li>Nina Kruimer, <em>Online users’ feedback and companies’ greenwashing practices</em>, A.Y. 2020-2021 - <a href="https://scripties.uba.uva.nl/download?fid=c4994294">PDF</a></li>
 <li>Raluca Dewald, <em>Seed it up: the effects of team gender-ratio, industry knowledge and economic freedom on the seed funding of startups</em>, A.Y. 2019-2020</li>
 </ul>
 
