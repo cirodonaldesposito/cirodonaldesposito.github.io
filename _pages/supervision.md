@@ -19,7 +19,7 @@ Master's degree
 <li>Yuxuan Wu, <em>An investigation of how open innovation strategies in the digital consumer engagement impact on the performance of restaurant SMEs</em>, A.Y. 2023-2024</li>
 <li>Lucas Huijts, <em>How does AI usage within a firm influence the level of firm innovation?</em>, A.Y. 2022-2023</li>
 <li>Fabian Friedel, <em>Entrepreneurial opportunity recognition abroad: what influences opportunity recognition of entrepreneurs who start a business outside of their home country?</em>, A.Y. 2022-2023</li>
-<li>Kjelt Kokke, <em>Innovation in times of crisis: unraveling the dynamic impact of research and development on firm performance</em>, A.Y. 2022-2023</li> - [PDF](https://scripties.uba.uva.nl/download?fid=c10260868)
+<li>Kjelt Kokke, <em>Innovation in times of crisis: unraveling the dynamic impact of research and development on firm performance</em>, A.Y. 2022-2023</li> - [PDF](https://scripties.uba.uva.nl/download?fid=c10260868) <a href="https://scripties.uba.uva.nl/download?fid=c10260868">PDF</a>
 <li>Emma Neijgh van Lier, <em>Sustaining the Beat: Analyzing the Environmental Performance Effects of
 Exploratory and Exploitative Green Alliances in the Dutch Festival Industry</em>, A.Y. 2022-2023</li>
 <li>Domenico Mannino, <em>Impact investors’ decision-making across different stages of investment: an explorative investigation on early-stage and late-stage impact investors’ pre-selection investment criteria</em>, A.Y. 2022-2023</li>
