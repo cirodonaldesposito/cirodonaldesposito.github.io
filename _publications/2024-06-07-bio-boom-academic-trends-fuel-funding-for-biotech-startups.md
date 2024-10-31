@@ -1,16 +1,18 @@
 ---
-title: "Getting off to a good start: emerging academic fields and early-stage equity financing"
+title: "Bio-Boom: Academic Trends Fuel Funding for Biotech Startups"
 collection: publications
-permalink: /publication/2023-09-08-getting-off-to-a-good-start-emerging-academic-fields-and-early-stage-equity-financing
-excerpt: 'Prior studies show that access to academic knowledge plays a crucial role in new venture financing. We extend this research by shifting the focus from the access to academic knowledge to the developmental state of the academic field, where the academic knowledge is generated. Using natural language processing (NLP), we clustered peer-reviewed academic knowledge from Scopus into various fields. We then analyzed a sample of 341 new biotech ventures from Crunchbase to determine if increased past activity by (1) academics and (2) early-stage venture investors in a particular academic field is associated with the early-stage equity financing of new ventures associated with that field. We found that new ventures associated with academic fields for which academic activity has grown in the past receive more early-stage equity capital. However, contrary to our expectations, we also revealed that when a particular academic field shows greater early-stage venture investments in the past, the amount of early-stage equity capital received by subsequent ventures associated with the same academic field decreases. This suggests that while emerging academic fields signal the presence of business opportunities with high reward potential, past increase in the number of investments by peer early-stage investors associated with a particular academic field signals the opposite.'
-date: 2023-09-08
-venue: 'Small Business Economics'
-paperurl: 'https://doi.org/10.1007/s11187-023-00816-9'
-citation: 'Esposito, C. D., Szatmari, B., Sitruk, J. M. C., & Wijnberg, N. M. (2024). &quot;Getting off to a good start: emerging academic fields and early-stage equity financing.&quot; <i>Small Business Economics</i> 62, 1591-1613.'
+permalink: /publication/2024-06-07-bio-boom-academic-trends-fuel-funding-for-biotech-startups
+excerpt: 'Did you know that mentioning emerging academic trends in your biotech startup’s business
+description can significantly increase the amount of external funding you receive? Here is how.'
+date: 2024-06-07
+venue: 'BCERC'
+paperurl: 'https://www.babson.edu/media/babson/assets/bcerc-dc-translations/Esposito-Ciro-Translation.pdf'
+citation: 'Esposito, C. D. (2024). &quot;Bio-Boom: Academic Trends Fuel Funding for Biotech Startups.&quot; <i>Small Business Economics</i> 62, 1591-1613.'
 ---
-Prior studies show that access to academic knowledge plays a crucial role in new venture financing. We extend this research by shifting the focus from the access to academic knowledge to the developmental state of the academic field, where the academic knowledge is generated. Using natural language processing (NLP), we clustered peer-reviewed academic knowledge from Scopus into various fields. We then analyzed a sample of 341 new biotech ventures from Crunchbase to determine if increased past activity by (1) academics and (2) early-stage venture investors in a particular academic field is associated with the early-stage equity financing of new ventures associated with that field. We found that new ventures associated with academic fields for which academic activity has grown in the past receive more early-stage equity capital. However, contrary to our expectations, we also revealed that when a particular academic field shows greater early-stage venture investments in the past, the amount of early-stage equity capital received by subsequent ventures associated with the same academic field decreases. This suggests that while emerging academic fields signal the presence of business opportunities with high reward potential, past increase in the number of investments by peer early-stage investors associated with a particular academic field signals the opposite.
+Did you know that mentioning emerging academic trends in your biotech startup’s business
+description can significantly increase the amount of external funding you receive? Here is how.
 
-[Download paper here](https://link.springer.com/article/10.1007/s11187-023-00816-9)
+[Download research translation here](https://www.babson.edu/media/babson/assets/bcerc-dc-translations/Esposito-Ciro-Translation.pdf)
 
-Recommended citation: Esposito, C. D., Szatmari, B., Sitruk, J. M. C., & Wijnberg, N. M. (2024). Getting off to a good start: emerging academic fields and early-stage equity financing. <i>Small Business Economics</i> 62, 1591-1613. https://doi.org/10.1007/s11187-023-00816-9
+Recommended citation: Esposito, C. D. Bio-Boom: Academic Trends Fuel Funding for Biotech Startups <i>BCERC</i> https://www.babson.edu/media/babson/assets/bcerc-dc-translations/Esposito-Ciro-Translation.pdf
 
