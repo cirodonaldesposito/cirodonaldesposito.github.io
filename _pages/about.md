@@ -11,7 +11,7 @@ redirect_from:
 
 My research
 ======
-<p style="text-align:justify;"> My research is funded by the European Union’s Horizon 2020 Research and Innovation Programme. I explore how emerging areas of knowledge affect key business activities such as venture financing and alliance formation, with a strong focus on applying text analysis. In 2023, I was awarded a research grant by the European Academy of Management to investigate how exaggeration influences venture financing. My work has been presented at leading management conferences and doctoral consortia, including Academy of Management (AOM) and European Group for Organizational Studies (EGOS), and published in <em>Small Business Economics</em>.</p>
+<p style="text-align:justify;"> My research is funded by the European Union’s Horizon 2020 Research and Innovation Programme. I explore how emerging areas of knowledge affect key business activities such as venture financing and alliance formation, with a strong focus on applying text analysis. My Ph.D. dissertation, entitled "Emerging Fields: Their Strategic Implications and Identification", was completed in October 2024 and will be defended on the 13th of May 2025. In 2023, I was awarded a research grant by the European Academy of Management to investigate how exaggeration influences venture financing. My work has been presented at leading management conferences and doctoral consortia, including Academy of Management (AOM) and European Group for Organizational Studies (EGOS), and published in <em>Small Business Economics</em>.</p>
 
 ![Model](https://cirodonaldesposito.github.io/images/uva.jpg)
 ![Model](https://cirodonaldesposito.github.io/images/organovir.jpg)
