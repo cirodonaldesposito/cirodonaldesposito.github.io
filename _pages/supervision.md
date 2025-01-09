@@ -22,7 +22,7 @@ Master's degree
 <li>Kjelt Kokke, <em>Innovation in times of crisis: unraveling the dynamic impact of research and development on firm performance</em>, A.Y. 2022-2023 - <a href="https://scripties.uba.uva.nl/download?fid=c10260868">PDF</a></li>
 <li>Emma Neijgh van Lier, <em>Sustaining the Beat: Analyzing the Environmental Performance Effects of
 Exploratory and Exploitative Green Alliances in the Dutch Festival Industry</em>, A.Y. 2022-2023</li>
-<li>Domenico Mannino, <em>Impact investors’ decision-making across different stages of investment: an explorative investigation on early-stage and late-stage impact investors’ pre-selection investment criteria</em>, A.Y. 2022-2023 - <b>Finalist for the George Molenkamp Sustainability Thesis Award 2023</b> (Sponsored by KPMG) and <b>finalist for the ASF Thesis Prize 2024</b></li> 
+<li>Domenico Mannino, <em>Impact investors’ decision-making across different stages of investment: an explorative investigation on early-stage and late-stage impact investors’ pre-selection investment criteria</em>, A.Y. 2022-2023 - <b>Finalist for the George Molenkamp Sustainability Thesis Award 2023</b> (Sponsored by KPMG) and <b>finalist for the A Sustainable Future Thesis Prize 2024</b></li> 
 <li>Sanne de Bont, <em>How to nudge from a distance? Nudging employees to increase their physical activity on the job while working remotely</em>, A.Y. 2021-2022</li>
 <li>Marija Sinicaite, <em>Corporate culture and green innovation: an empirical study of medical technology firms</em>, A.Y. 2021-2022 - <b>Finalist for the George Molenkamp Sustainability Thesis Award 2022</b> (Sponsored by KPMG)</li> 
 <li>Lou-Lou Carmiggelt, <em>Consumer demand of hyper-personalized offerings of grocery providers</em>, A.Y. 2021-2022</li>
