@@ -6,7 +6,7 @@ main:
   - title: "News"
     url: /year-archive/
 
-  - title: "Publications"
+  - title: "Publications and translations"
     url: /publications/
 
   - title: "Talks"
@@ -20,6 +20,6 @@ main:
     
   - title: "Grants and awards"
     url: /grantsandawards/
-    
+
   - title: "CV"
     url: /cv/
