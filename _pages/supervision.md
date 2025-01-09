@@ -10,7 +10,7 @@ Master's degree
 ======
 <ul>
 <li>Christiaan William Links, <em>The moderating effect of market volatility on the relationship between capital structure and dividends</em>, A.Y. 2023-2024</li> 
-<li>Cornelis Petrus Junior de Nijs, <em>Overcoming barriers of the circular economy in the dutch construction industry</em>, A.Y. 2023-2024 - <strong>Nominated for the George Molenkamp Sustainability Thesis Prize 2024<b> (Sponsored by KPMG)</li> 
+<li>Cornelis Petrus Junior de Nijs, <em>Overcoming barriers of the circular economy in the dutch construction industry</em>, A.Y. 2023-2024 - <b>Nominated for the George Molenkamp Sustainability Thesis Prize 2024</b> (Sponsored by KPMG)</li> 
 <li>Isabelle Beijersbergen, <em>The impact of corporate social responsibility disclosure on firm value: a quantitative review on the moderating effects of external assurance and quality assessment</em>, A.Y. 2023-2024 - <strong>Nominated for the George Molenkamp Sustainability Thesis Prize 2024<b> (Sponsored by KPMG)</li> 
 <li>Lisa Arakelian, <em>Exaggeration in social media advertisements: analyzing its effects on consumer behavior</em>, A.Y. 2023-2024</li>
 <li>Roan Hoogervorst, <em>Effects of funding goal and campaign duration on the performance of crowdfunding campaigns: the moderating role of the technology sector</em>, A.Y. 2023-2024 - <a href="https://scripties.uba.uva.nl/download?fid=c11257248">PDF</a></li>
