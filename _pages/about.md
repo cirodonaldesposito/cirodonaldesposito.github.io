@@ -1,20 +1,17 @@
 ---
 permalink: /
-title: "About me (on the job market!)"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<p style="text-align:justify;"> Hello! I'm Ciro, a Ph.D. candidate at the <a href="https://www.uva.nl/en">University of Amsterdam</a>, conducting research at the intersection of management and natural language processing (NLP). I am part of the <a href="https://abs.uva.nl/content/sections/entrepeneurship-innovation/entrepreneurship-innovation.html">Entrepreneurship & Innovation</a> section, led by <a href="https://abs.uva.nl/profile/o/b/m.obschonka/m.obschonka.html">Martin Obschonka</a>. My Ph.D. supervisors are <a href="https://www.uva.nl/profiel/w/i/n.m.wijnberg/n.m.wijnberg.html">Nachoem Wijnberg</a>, <a href="https://www.uva.nl/en/profile/s/z/b.szatmari/b.szatmari.html">Balazs Szatmari</a>, and <a href="https://www.uva.nl/en/profile/s/i/j.m.c.sitruk/j.m.c.sitruk.html">Jonathan Sitruk</a>. I've also been a visiting scholar at <a href="https://www.criver.com/">Charles River Laboratories</a> and at the <a href="https://www.hhs.se/houseofinnovation">House of Innovation</a>, Stockholm School of Economics, where I collaborated with <a href="https://www.hhs.se/en/persons/k/kok-holmer/">Holmer Kok</a>. I also collaborated with the <a href="https://ivi.uva.nl/research/intelligent-data-engineering-lab-indelab.html">Intelligent Data Engineering Lab (INDElab)</a>, led by <a href="https://www.uva.nl/en/profile/g/r/p.t.groth/p.t.groth.html">Paul Groth</a>, at the Informatics Institute of the University of Amsterdam.</p>
+<p style="text-align:justify;"> Hello! I'm Ciro, an incoming Assistant Professor of Data Entrepreneurship at <a href="https://www.jads.nl/">Jheronimus Academy of Data Science (JADS)</a>, Tilburg University. I am part of the <a href="https://www.jads.nl/research/data-entrepreneurship/">Data Entrepreneurship Unit</a>, led by <a href="https://www.jads.nl/researcher/alexander-vossen/">Alexander Vossen</a>. I am also a member of the Editorial Review Board of <em>Industry and Innovation</em>, from which I received the Best Reviewer Award 2024 in recognition of my service.
 
 My research
 ======
-<p style="text-align:justify;"> My research is funded by the European Union’s Horizon 2020 Research and Innovation Programme. I explore how emerging areas of knowledge affect key business activities such as venture financing and alliance formation, with a strong focus on applying text analysis. My Ph.D. dissertation, entitled "Emerging Fields: Their Strategic Implications and Identification", was completed in October 2024 and will be defended on the 13th of May 2025. In 2023, I was awarded a research grant by the European Academy of Management to investigate how exaggeration influences venture financing. My work has been presented at leading management conferences and doctoral consortia, including Academy of Management (AOM) and European Group for Organizational Studies (EGOS), and published in <em>Small Business Economics</em>.</p>
-
-![Model](https://cirodonaldesposito.github.io/images/uva.jpg)
-![Model](https://cirodonaldesposito.github.io/images/organovir.jpg)
+<p style="text-align:justify;"> My research is at the crossroad of entrepreneurship and data science. I use Natural Language Processing (NLP) to explore how entrepreneurs succeed, particularly in securing new venture financing and forming strategic alliances. Prior to joining JADS, I conducted my PhD research at the University of Amsterdam, funded by the European Union’s Horizon 2020 Research and Innovation Programme. In 2023, I was awarded a research grant by the European Academy of Management to investigate how exaggeration, detected through NLP, influences venture financing. My work has been presented at leading management conferences and doctoral consortia, including Academy of Management (AOM) and European Group for Organizational Studies (EGOS), and published in <em>Small Business Economics</em>.</p>
 
 My teaching
 ======
@@ -22,7 +19,7 @@ My teaching
 
 My supervision
 ======
-<p style="text-align:justify;"> I’ve mentored 35 master's and bachelor's students on a wide range of topics that extend beyond my own Ph.D. focus, such as artificial intelligence (AI) and innovation, hype, social entrepreneurship, and sustainability. Many of these students have engaged in thesis projects in collaboration with both the university and corporate partners, often leading to employment opportunities within the companies involved. Several of my students have also earned significant recognition, including a master's student who was named a top three finalist for the ASF Thesis Prize (€1500) in 2024. Furthermore, two of my master's students were finalists for the George Molenkamp Sustainability Thesis Award (€1000) in both 2022 and 2023, sponsored by KPMG and the University of Amsterdam. For more details on the theses, you can visit <a href="https://cirodonaldesposito.github.io/supervision/">here</a>.</p>
+<p style="text-align:justify;"> I’ve mentored 35 master's and bachelor's students on a wide range of topics that extend beyond my own focus, such as artificial intelligence (AI) and innovation, hype, social entrepreneurship, and sustainability. Many of these students have engaged in thesis projects in collaboration with both the university and corporate partners, often leading to employment opportunities within the companies involved. Several of my students have also earned significant recognition, including a master's student who was named a top three finalist for the ASF Thesis Prize (€1500) in 2024. Furthermore, two of my master's students were finalists for the George Molenkamp Sustainability Thesis Award (€1000) in both 2022 and 2023, sponsored by KPMG and the University of Amsterdam. For more details on the theses, you can visit <a href="https://cirodonaldesposito.github.io/supervision/">here</a>.</p>
 
 My background
 ======
