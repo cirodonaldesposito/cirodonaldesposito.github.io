@@ -9,8 +9,8 @@ redirect_from:
 Master's degree
 ======
 <ul>
-<li>Ibrahim Zayani, <em></em>, A.Y. 2025-2026</li> 
-<li>Gunel Nabiyeva, <em></em>, A.Y. 2025-2026</li> 
+<li>Ibrahim Zayani, <em>Thesis in progress/em>, A.Y. 2025-2026</li> 
+<li>Gunel Nabiyeva, <em>Thesis in progress</em>, A.Y. 2025-2026</li> 
 <li>Christiaan William Links, <em>The moderating effect of market volatility on the relationship between capital structure and dividends</em>, A.Y. 2023-2024</li> 
 <li>Cornelis Petrus Junior de Nijs, <em>Overcoming barriers of the circular economy in the dutch construction industry</em>, A.Y. 2023-2024 - <b>Nominated for the George Molenkamp Sustainability Thesis Award 2024</b> (Sponsored by KPMG)</li> 
 <li>Isabelle Beijersbergen, <em>The impact of corporate social responsibility disclosure on firm value: a quantitative review on the moderating effects of external assurance and quality assessment</em>, A.Y. 2023-2024 - <b>Nominated for the George Molenkamp Sustainability Thesis Award 2024</b> (Sponsored by KPMG)</li> 
