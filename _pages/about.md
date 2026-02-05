@@ -15,7 +15,7 @@ My research
 
 My teaching
 ======
-<p style="text-align:justify;"> I am currently teaching the master’s course <em>Data Entrepreneurship in Action</em> at JADS, which focuses on AI-driven startup founding. For more information about the courses I have taught in the past, you can visit <a href="https://cirodonaldesposito.github.io/teaching/">here</a>.</p>
+<p style="text-align:justify;"> In the past semester, I taught the master’s course <em>Data Entrepreneurship in Action</em> at JADS, which focuses on AI-driven startup founding. For more information about the courses I have taught in the past, you can visit <a href="https://cirodonaldesposito.github.io/teaching/">here</a>.</p>
 
 My supervision
 ======
