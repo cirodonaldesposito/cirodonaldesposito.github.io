@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align:justify;"> Hello! I'm Ciro, an Assistant Professor of Data Entrepreneurship at <a href="https://www.jads.nl/">Jheronimus Academy of Data Science (JADS)</a>, Tilburg University. I am part of the <a href="https://www.jads.nl/research/data-entrepreneurship/">Data Entrepreneurship Unit</a>, led by <a href="https://www.jads.nl/researcher/alexander-vossen/">Alexander Vossen</a>. I am also a member of the Editorial Review Board of <em>Industry and Innovation</em>, from which I received the Best Reviewer Award in recognition of my service in both 2025 and 2026. Committed to continually improve my contributions to the academic community, I have completed the Reviewer Development Program at the <em>Journal of Product Innovation Management</em> in 2026.</p>
+<p style="text-align:justify;"> Hello! I'm Ciro, an Assistant Professor of Data Entrepreneurship at <a href="https://www.jads.nl/">Jheronimus Academy of Data Science (JADS)</a>, Tilburg University. I am part of the <a href="https://www.jads.nl/research/data-entrepreneurship/">Data Entrepreneurship Unit</a>, led by <a href="https://www.jads.nl/researcher/alexander-vossen/">Alexander Vossen</a>. I am also a member of the Editorial Review Board of <em>Industry and Innovation</em>, from which I received the Best Reviewer Award in recognition of my service in both 2025 and 2026. Committed to continually improve my contributions to the academic community, I have also completed the Reviewer Development Program at the <em>Journal of Product Innovation Management</em> in 2026.</p>
 
 My research
 ======
