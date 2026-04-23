@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align:justify;"> Hello! I'm Ciro, an Assistant Professor of Data Entrepreneurship at <a href="https://www.jads.nl/">Jheronimus Academy of Data Science (JADS)</a>, Tilburg University. I am part of the <a href="https://www.jads.nl/research/data-entrepreneurship/">Data Entrepreneurship Unit</a>, led by <a href="https://www.jads.nl/researcher/alexander-vossen/">Alexander Vossen</a>. I am also a member of the Editorial Review Board of <em>Industry and Innovation</em>, from which I received the Best Reviewer Award in recognition of my service in both 2025 and 2026. Committed to continually improve my contributions to the academic community, I have also completed the Reviewer Development Program at the <em>Journal of Product Innovation Management</em> in 2026.</p>
+<p style="text-align:justify;"> Hello! I'm Ciro, an Assistant Professor of Data Entrepreneurship at <a href="https://www.jads.nl/">Jheronimus Academy of Data Science (JADS)</a>, Tilburg University. I am part of the <a href="https://www.jads.nl/research/data-entrepreneurship/">Data Entrepreneurship Unit</a>, led by <a href="https://www.jads.nl/researcher/alexander-vossen/">Alexander Vossen</a>. I am also a member of the Editorial Review Board of <em>Industry and Innovation</em>, from which I received the Best Reviewer Award in recognition of my service in both 2025 and 2026. Committed to continually improving my contributions to the academic community, I have also completed the Reviewer Development Program at the <em>Journal of Product Innovation Management</em> in 2026.</p>
 
 My research
 ======
@@ -15,11 +15,11 @@ My research
 
 My teaching
 ======
-<p style="text-align:justify;"> In the past semester, I taught the master’s course <em>Data Entrepreneurship in Action</em> at JADS, which focuses on AI-driven startup founding. For more information about the courses I have taught in the past, you can visit <a href="https://cirodonaldesposito.github.io/teaching/">here</a>.</p>
+<p style="text-align:justify;"> I am currently teaching the bachelor's course <em>Data-Driven Business Creation</em>. In the past semester, I taught the master’s course <em>Data Entrepreneurship in Action</em>, which focuses on AI-driven startup founding. Both courses are part of joint degree programmes offered by Tilburg University and TU/e Eindhoven. For more information about the courses I have taught in the past, you can visit <a href="https://cirodonaldesposito.github.io/teaching/">here</a>.</p>
 
 My supervision
 ======
-<p style="text-align:justify;"> I've successfully mentored 35 master's and bachelor's students to completion. Many of these students have engaged in thesis projects in collaboration with both the university and corporate partners, often leading to employment opportunities within the companies involved. Some of my students have also earned significant recognition, including a master's student who was named a top three finalist for the ASF Thesis Prize (€1500) in 2024. Furthermore, two of my master's students were finalists for the George Molenkamp Sustainability Thesis Award (€1000) in both 2022 and 2023, sponsored by KPMG and the University of Amsterdam. For more details on the theses, you can visit <a href="https://cirodonaldesposito.github.io/supervision/">here</a>.</p>
+<p style="text-align:justify;"> I've successfully mentored more than 35 master's and bachelor's students to completion. Many of these students have engaged in thesis projects in collaboration with both the university and corporate partners, often leading to employment opportunities within the companies involved. Some of my students have also earned significant recognition, including a master's student who was named a top three finalist for the ASF Thesis Prize (€1500) in 2024. Furthermore, two of my master's students were finalists for the George Molenkamp Sustainability Thesis Award (€1000) in both 2022 and 2023, sponsored by KPMG and the University of Amsterdam. For more details on the theses, you can visit <a href="https://cirodonaldesposito.github.io/supervision/">here</a>.</p>
 
 My background
 ======
