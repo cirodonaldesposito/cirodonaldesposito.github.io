@@ -15,7 +15,7 @@ My research
 
 My teaching
 ======
-<p style="text-align:justify;"> I am currently teaching the bachelor's course <em>Data-Driven Business Creation</em>. In the past semester, I taught the master’s course <em>Data Entrepreneurship in Action</em>, which focuses on AI-driven startup founding. Both courses are part of joint degree programmes offered by Tilburg University and TU/e Eindhoven. For more information about the courses I have taught in the past, you can visit <a href="https://cirodonaldesposito.github.io/teaching/">here</a>.</p>
+<p style="text-align:justify;"> I am currently teaching the bachelor's course <em>Data-Driven Business Creation</em>. In the past semester, I taught the master’s course <em>Data Entrepreneurship in Action</em>. Both courses focus on AI-driven startup founding and are part of joint degree programmes offered by Tilburg University and TU/e Eindhoven. For more information about the courses I have taught in the past, you can visit <a href="https://cirodonaldesposito.github.io/teaching/">here</a>.</p>
 
 My supervision
 ======
