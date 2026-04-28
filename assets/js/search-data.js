@@ -514,6 +514,27 @@ ninja.data = [{
           window.open("mailto:%63.%64.%65%73%70%6F%73%69%74%6F@%74%69%6C%62%75%72%67%75%6E%69%76%65%72%73%69%74%79.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/cirodonaldesposito", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Ciro-Esposito-9", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/cirodonaldesposito", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
