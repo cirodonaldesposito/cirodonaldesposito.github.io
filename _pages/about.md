@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Data Entrepreneurship at <a href='https://www.tilburguniversity.edu/staff/c-d-esposito'>Tilburg University</a>, Jheronimus Academy of Data Science (JADS)
+subtitle: Assistant Professor at <a href='https://www.tilburguniversity.edu/staff/c-d-esposito'>Tilburg University</a>.
 
 profile:
   align: right
