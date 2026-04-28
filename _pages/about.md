@@ -29,7 +29,7 @@ latest_posts:
 ---
 Hello! I'm Ciro, an Assistant Professor of Entrepreneurship at Tilburg University, Jheronimus Academy of Data Science (JADS). I am part of the Data Entrepreneurship Unit led by Alexander Vossen. I am also a member of the Editorial Review Board of <em>Industry and Innovation</em>, from which I received the Best Reviewer Award in both 2025 and 2026.
 
-My research sits at the crossroads of entrepreneurship and data science. I study how entrepreneurs succeed, from securing early funding to forming strategic alliances, using Natural Language Processing (NLP) and, more recently, Large Language Models (LLMs). My work has been published in <em>Small Business Economics</em> and <em>PeerJ Computer Science</em>, and presented at leading conferences, including AOM and BCERC.
+My research sits at the crossroads of entrepreneurship and data science. I study how entrepreneurs succeed, from securing early funding to forming strategic alliances, using and evaluating Natural Language Processing (NLP) and, more recently, Large Language Models (LLMs). My work has been published in <em>Small Business Economics</em> and <em>PeerJ Computer Science</em>, and presented at leading conferences, including AOM and BCERC.
 
 I currently teach Data-Driven Business Creation (BSc) and have previously taught Data Entrepreneurship in Action (MSc), both part of joint programmes by Tilburg University and TU/e Eindhoven. I have also mentored more than 35 master's and bachelor's students, some of whom have been finalists for prestigious thesis prizes.
 
