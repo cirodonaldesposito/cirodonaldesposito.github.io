@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 2.07</p>
+    <p>Room 2.078</p>
     <p>Sint Janssingel 92</p>
     <p>5211 DA 's-Hertogenbosch</p>
 
