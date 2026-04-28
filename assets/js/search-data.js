@@ -507,13 +507,6 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%63.%64.%65%73%70%6F%73%69%74%6F@%74%69%6C%62%75%72%67%75%6E%69%76%65%72%73%69%74%79.%65%64%75", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -547,6 +540,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-6444-7894", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%63.%64.%65%73%70%6F%73%69%74%6F@%74%69%6C%62%75%72%67%75%6E%69%76%65%72%73%69%74%79.%65%64%75", "_blank");
         },
       },{
       id: 'light-theme',
