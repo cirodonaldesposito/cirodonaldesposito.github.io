@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor at <a href='https://www.tilburguniversity.edu/staff/c-d-esposito'>Tilburg University</a>.
+subtitle: Assistant Professor at <a href='https://www.tilburguniversity.edu/staff/c-d-esposito'>Tilburg University</a>
 
 profile:
   align: right
