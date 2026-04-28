@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor at <a href='https://www.tilburguniversity.edu/staff/c-d-esposito'>Tilburg University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 2.078</p>
+    <p>Room 2.07</p>
     <p>Sint Janssingel 92</p>
     <p>5211 DA 's-Hertogenbosch</p>
+     <p>The Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
