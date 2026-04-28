@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Room 2.07<br>
-  Sint Janssingel 92<br>
-  5211 DA 's-Hertogenbosch<br>
-  The Netherlands
+    <p>Room 2.07</p>
+    <p>Sint Janssingel 92</p>
+    <p>5211 DA Den Bosch</p>
+    <p>The Netherlands</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
