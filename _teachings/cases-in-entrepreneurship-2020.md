@@ -9,5 +9,5 @@ year: 2020
 term: Fall
 location: 
 time: 
-course_id: cases-in-entrepreneurship
+course_id: cases-in-entrepreneurship-2020
 ---
