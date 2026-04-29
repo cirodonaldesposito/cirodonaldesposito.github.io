@@ -47,5 +47,5 @@ nav_order: 4
 - Arbaz Usman, "Are investors looking for the new big platform star?", A.Y. 2021-2022
 - Hayk Ter-Tatshatyan, "How does external funding affect job performance in self-funded creative industry organisations?", A.Y. 2020-2021
 - Martijn Pluimers, "Funded or forgotten: how patents, trademarks, and education influence the funding of clean energy ventures", A.Y. 2020-2021
-- Nina Hijmans, "How to reach Silicon Valley: A case study investigating if there exists an correlation between the possessing of patents and the funding obtained for start-ups", A.Y. 2020-2021
+- Nina Hijmans, "How to reach Silicon Valley: A case study investigating if there exists a correlation between the possessing of patents and the funding obtained for start-ups", A.Y. 2020-2021
 - Ronan Gazenbeek, "Work or study? What you should have been doing before starting your start-up", A.Y. 2020-2021
