@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geopolitics & Innovation
+title: AI, NLP & LLMs
 description: 
 img: assets/img/7.jpg
 redirect: https://cirodonaldesposito.github.io/projects/
