@@ -69,7 +69,7 @@ ninja.data = [{
           title: 'Happy to share that my paper “Competitor Similarity, Scientific Orientation and Alliance Partner...',
           description: "",
           section: "News",},{id: "projects-geopolitics-amp-innovation",
-          title: 'Geopolitics /&amp;amp; Innovation',
+          title: 'Geopolitics &amp;amp; Innovation',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
