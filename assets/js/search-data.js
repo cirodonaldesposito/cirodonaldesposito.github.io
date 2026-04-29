@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-honoured-to-receive-the-best-reviewer-award-2025-from-industry-and-innovation-journal",
+          title: 'Honoured to receive the Best Reviewer Award 2025 from Industry and Innovation journal...',
           description: "",
           section: "News",},{id: "news-my-paper-competitor-similarity-scientific-orientation-and-alliance-partner-selection-a-choice-based-conjoint-experiment-got-accepted-to-euram-2026-see-you-in-kristiansand-this-summer",
           title: 'My paper “Competitor Similarity, Scientific Orientation and Alliance Partner Selection: A Choice-based Conjoint...',
