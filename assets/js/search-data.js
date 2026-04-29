@@ -496,6 +496,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-data-driven-business-creation-bsc",
+          title: 'Data-Driven Business Creation, BSc',
+          description: "This course takes students step by step through the early stages of creating a data-driven business using the Lean Startup Framework.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/data-driven-business-creation/";
             },},{id: "teachings-data-entrepreneurship-in-action",
           title: 'Data Entrepreneurship in Action',
           description: "This course guides students through the end-to-end process of launching a new data-driven venture, from team formation and idea generation to securing funding and pitching to investors.",
