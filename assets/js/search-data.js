@@ -503,7 +503,7 @@ ninja.data = [{
               window.location.href = "/teachings/data-driven-business-creation/";
             },},{id: "teachings-data-entrepreneurship-in-action",
           title: 'Data Entrepreneurship in Action',
-          description: "This course guides students through the end-to-end process of launching a new data-driven venture, from team formation and idea generation to securing funding and pitching to investors.",
+          description: "This master&#39;s course guides students through the end-to-end process of launching a new data-driven venture, from team formation and idea generation to securing funding and pitching to investors.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-entrepreneurship-in-action/";
             },},{
