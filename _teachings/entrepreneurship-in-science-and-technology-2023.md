@@ -2,7 +2,7 @@
 layout: course
 title: Entrepreneurship in Science and Technology
 description: 
-level: BSc
+level: MSc
 instructor: Lien De Cuyper, Ciro D. Esposito
 course_coordinator: 
 year: 2023
