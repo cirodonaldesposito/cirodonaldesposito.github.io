@@ -6,7 +6,7 @@ level: BSc
 instructor: Balazs Szatmari, Ciro D. Esposito
 course_coordinator: 
 year: 2023
-term: Fall
+term: Spring
 location: 
 time: 
 course_id: digital-business-models-2023
