@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geopolitics & Innovation
+title: Sustainability
 description: 
 img: assets/img/7.jpg
 redirect: https://cirodonaldesposito.github.io/projects/
