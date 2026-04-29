@@ -78,8 +78,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-geopolitics-amp-innovation",
-          title: 'Geopolitics &amp;amp; Innovation',
+            },},{id: "projects-entrepreneurial-finance",
+          title: 'Entrepreneurial Finance',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
