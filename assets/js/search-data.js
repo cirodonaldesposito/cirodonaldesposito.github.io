@@ -446,7 +446,7 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-share-that-my-paper-when-machines-meet-emotions-understanding-the-affective-side-of-ai-adoption-got-accepted-to-ipdmc-2026",
           title: 'Excited to share that my paper “When Machines Meet Emotions: Understanding the Affective...',
           description: "",
-          section: "News",},{id: "news-happy-to-share-that-my-paper-competitor-similarity-scientific-orientation-and-alliance-partner-selection-a-choice-based-conjoint-experiment-got-accepted-to-euram-2026-see-you-in-kristiansand-this-summer",
+          section: "News",},{id: "news-happy-to-share-that-my-paper-competitor-similarity-scientific-orientation-and-alliance-partner-selection-a-choice-based-conjoint-experiment-got-accepted-to-euram-2026",
           title: 'Happy to share that my paper “Competitor Similarity, Scientific Orientation and Alliance Partner...',
           description: "",
           section: "News",},{id: "projects-project-1",
