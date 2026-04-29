@@ -511,6 +511,11 @@ ninja.data = [{
           description: "This course guides students through the end-to-end process of launching a new data-driven venture, from team formation and idea generation to securing funding and pitching to investors.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-entrepreneurship-in-action-2025/";
+            },},{id: "teachings-digital-innovation-and-entrepreneurship",
+          title: 'Digital Innovation and Entrepreneurship',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/digital-innovation-and-entrepreneurship-2022/";
             },},{id: "teachings-innovation-management",
           title: 'Innovation Management',
           description: "",
