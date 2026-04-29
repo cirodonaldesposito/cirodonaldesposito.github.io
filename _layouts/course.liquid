@@ -4,6 +4,10 @@ layout: page
 <div class="course">
   {% if page.instructor or page.term or page.location or page.time %}
     <div class="course-info">
+      {% if page.level %}
+       <p><strong>Level:</strong> {{ page.level }}</p>
+      {% endif %}
+
       {% if page.instructor %}
         <p><strong>Instructor:</strong> {{ page.instructor }}</p>
       {% endif %}
