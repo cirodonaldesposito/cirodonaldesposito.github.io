@@ -9,6 +9,6 @@ year: 2025
 term: Fall
 location: Mariënburg Campus, Room 3.02
 time: Mondays, 13:45-17:30 PM
-course_id: data-entrepreneurship-in-action
+course_id: data-entrepreneurship-in-action-2025
 ---
 
