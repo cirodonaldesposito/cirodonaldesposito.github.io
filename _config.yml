@@ -7,7 +7,7 @@ first_name: Ciro
 middle_name: D.
 last_name: Esposito, PhD
 #contact_note: >
-  On LinkedIn I publish faster than in peer reviewed journals. Follow me there.
+  #On LinkedIn I publish faster than in peer reviewed journals. Follow me there.
 description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
