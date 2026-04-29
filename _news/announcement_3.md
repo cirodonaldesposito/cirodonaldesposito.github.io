@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper "Competitor Similarity, Scientific Orientation and Alliance Partner Selection: A Choice-based Conjoint Experiment" got accepted to EURAM 2026. See you in Kristiansand this summer!
+Happy to share that my paper "Competitor Similarity, Scientific Orientation and Alliance Partner Selection: A Choice-based Conjoint Experiment" got accepted to EURAM 2026. See you in Kristiansand this summer!
