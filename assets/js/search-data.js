@@ -498,7 +498,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-driven-business-creation",
           title: 'Data-Driven Business Creation',
-          description: "This bachelor&#39;s course takes students step by step through the early stages of creating a data-driven business using the Lean Startup Framework.",
+          description: "This course takes students step by step through the early stages of creating a data-driven business using the Lean Startup Framework.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-driven-business-creation/";
             },},{id: "teachings-data-entrepreneurship-in-action",
