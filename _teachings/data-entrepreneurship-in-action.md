@@ -1,8 +1,9 @@
 ---
 layout: course
-title: Data Entrepreneurship in Action, MSc
+title: Data Entrepreneurship in Action
 description: This course guides students through the end-to-end process of launching a new data-driven venture, from team formation and idea generation to securing funding and pitching to investors.
 instructor: Ciro D. Esposito
+course coordinator: Ciro D. Esposito
 year: 2025
 term: Fall
 location: Mariënburg Campus, Room 3.02
