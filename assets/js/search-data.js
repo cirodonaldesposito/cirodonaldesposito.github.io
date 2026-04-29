@@ -516,6 +516,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/digital-business-models-2022/";
+            },},{id: "teachings-digital-business-models",
+          title: 'Digital Business Models',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/digital-business-models-2023/";
             },},{id: "teachings-digital-innovation-and-entrepreneurship",
           title: 'Digital Innovation and Entrepreneurship',
           description: "",
