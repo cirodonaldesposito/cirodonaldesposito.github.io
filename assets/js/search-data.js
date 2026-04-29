@@ -516,6 +516,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/digital-innovation-and-entrepreneurship-2022/";
+            },},{id: "teachings-digital-innovation-and-entrepreneurship",
+          title: 'Digital Innovation and Entrepreneurship',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/digital-innovation-and-entrepreneurship-2023/";
             },},{id: "teachings-innovation-management",
           title: 'Innovation Management',
           description: "",
