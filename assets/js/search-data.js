@@ -526,6 +526,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/entrepreneurship-in-science-and-technology-2022/";
+            },},{id: "teachings-entrepreneurship-in-science-and-technology",
+          title: 'Entrepreneurship in Science and Technology',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/entrepreneurship-in-science-and-technology-2023/";
             },},{id: "teachings-innovation-management",
           title: 'Innovation Management',
           description: "",
