@@ -516,6 +516,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/innovation-management-2020/";
+            },},{id: "teachings-innovation-management",
+          title: 'Innovation Management',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/innovation-management-2022/";
             },},{
         id: 'social-linkedin',
         title: 'LinkedIn',
