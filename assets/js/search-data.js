@@ -496,6 +496,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-cases-in-entrepreneurship",
+          title: 'Cases in Entrepreneurship',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/cases-in-entrepreneurship-2020/";
             },},{id: "teachings-data-driven-business-creation",
           title: 'Data-Driven Business Creation',
           description: "This course takes students step by step through the early stages of creating a data-driven business using the Lean Startup Framework.",
