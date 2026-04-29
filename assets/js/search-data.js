@@ -73,13 +73,13 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-nlp-amp-llms",
-          title: 'NLP &amp;amp; LLMs',
+            },},{id: "projects-entrepreneurial-finance-amp-signaling",
+          title: 'Entrepreneurial Finance &amp;amp; Signaling',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-entrepreneurial-finance",
-          title: 'Entrepreneurial Finance',
+            },},{id: "projects-geopolitics-amp-innovation",
+          title: 'Geopolitics &amp;amp; Innovation',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
