@@ -496,9 +496,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-data-entrepreneurship-in-action",
+          title: 'Data Entrepreneurship in Action',
+          description: "The course guides students through the end-to-end process of launching a new data-driven venture, from team formation and idea generation to securing funding and pitching to investors.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-entrepreneurship-in-action/";
             },},{
