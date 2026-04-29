@@ -440,11 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-my-paper-competitor-similarity-scientific-orientation-and-alliance-partner-selection-a-choice-based-conjoint-experiment-got-accepted-to-euram-2026-see-you-in-kristiansand-this-summer",
+          title: 'My paper “Competitor Similarity, Scientific Orientation and Alliance Partner Selection: A Choice-based Conjoint...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
