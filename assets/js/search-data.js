@@ -496,9 +496,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-entrepreneurship-in-action",
-          title: 'Data Entrepreneurship in Action',
-          description: "hhhh",
+            },},{id: "teachings-",
+          title: '',
+          description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-entrepreneurship-in-action/";
             },},{
