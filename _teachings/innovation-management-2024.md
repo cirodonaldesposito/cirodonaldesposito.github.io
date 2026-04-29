@@ -6,7 +6,7 @@ level: BSc
 instructor: Vilma Chila, Isabella Pozzo, Ciro D. Esposito
 course_coordinator: 
 year: 2024
-term: Fall
+term: Spring
 location: 
 time: 
 course_id: innovation-management-2024
