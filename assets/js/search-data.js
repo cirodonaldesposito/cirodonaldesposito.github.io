@@ -68,8 +68,8 @@ ninja.data = [{
           section: "News",},{id: "news-happy-to-share-that-my-paper-competitor-similarity-scientific-orientation-and-alliance-partner-selection-a-choice-based-conjoint-experiment-got-accepted-to-euram-2026",
           title: 'Happy to share that my paper “Competitor Similarity, Scientific Orientation and Alliance Partner...',
           description: "",
-          section: "News",},{id: "projects-geopolitics-amp-innovation",
-          title: 'Geopolitics &amp;amp; Innovation',
+          section: "News",},{id: "projects-innovation-amp-entrepreneurship",
+          title: 'Innovation &amp;amp; Entrepreneurship',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
