@@ -29,7 +29,7 @@ Lisa Arakelian, "Exaggeration in social media advertisements: analyzing its effe
 
 Roan Hoogervorst, "Effects of funding goal and campaign duration on the performance of crowdfunding campaigns: the moderating role of the technology sector" — [PDF](https://scripties.uba.uva.nl/download?fid=c11257248)
 
-Saffraan Bain, "Framing sustainability: Investigating the impact of green demarketing campaigns on consumers' intention to reduce meat consumption and the moderating roles of message source and environmental knowledge" — <br>Nominated for the George Molenkamp Sustainability Thesis Award 2024 (Sponsored by KPMG)
+Saffraan Bain, "Framing sustainability: Investigating the impact of green demarketing campaigns on consumers' intention to reduce meat consumption and the moderating roles of message source and environmental knowledge" <br>Nominated for the George Molenkamp Sustainability Thesis Award 2024 (Sponsored by KPMG)
 
 Xinyu Qiao, "The impact of social media networks on crowdfunding success"
 
