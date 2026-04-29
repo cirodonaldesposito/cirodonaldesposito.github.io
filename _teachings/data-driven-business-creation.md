@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Data-Driven Business Creation
-description: This course takes students step by step through the early stages of creating a data-driven business using the Lean Startup Framework.
+description: This bachelor's course takes students step by step through the early stages of creating a data-driven business using the Lean Startup Framework.
 instructor: Ciro D. Esposito, Naomi Moonen
 course coordinator: Ciro D. Esposito
 year: 2026
