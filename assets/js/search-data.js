@@ -83,6 +83,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-geopolitics-amp-innovation",
+          title: 'Geopolitics &amp;amp; Innovation',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-cases-in-entrepreneurship",
           title: 'Cases in Entrepreneurship',
           description: "",
