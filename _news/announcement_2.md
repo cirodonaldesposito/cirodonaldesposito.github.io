@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honoured to receive the Best Reviewer Award 2025 from Industry and Innovation journal
+Honoured to receive the Best Reviewer Award 2025 from <em>Industry and Innovation</em> journal
