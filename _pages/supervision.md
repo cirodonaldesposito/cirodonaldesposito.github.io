@@ -9,9 +9,9 @@ nav_order: 4
 
 **2025–2026**
 
-Ibrahim Zayani, "Thesis in progress" (w/ Naomi Moonen)
+Ibrahim Zayani, Thesis in progress (w/ Naomi Moonen)
 
-Gunel Nabiyeva, "Thesis in progress" (w/ Naomi Moonen)
+Gunel Nabiyeva, Thesis in progress (w/ Naomi Moonen)
 
 Fabian Corsten, "Predicting Series A Funding Success: An Explainable Machine Learning Approach to Entrepreneurial Signaling" (w/ Naomi Moonen)
 
