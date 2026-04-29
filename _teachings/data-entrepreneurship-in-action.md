@@ -1,7 +1,8 @@
 ---
 layout: course
 title: Data Entrepreneurship in Action
-description: This master's course guides students through the end-to-end process of launching a new data-driven venture, from team formation and idea generation to securing funding and pitching to investors.
+description: This course guides students through the end-to-end process of launching a new data-driven venture, from team formation and idea generation to securing funding and pitching to investors.
+level: MSc
 instructor: Ciro D. Esposito
 course_coordinator: Ciro D. Esposito
 year: 2025
