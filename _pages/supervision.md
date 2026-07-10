@@ -9,9 +9,11 @@ nav_order: 4
 
 **2025–2026**
 
-Ibrahim Zayani, Thesis in progress (w/ Naomi Moonen)
+Ibrahim Zayani, "Increasing Employee Adoption of Enterprise GenAI Through Targeted Training: The Mediating Role of Trust" (w/ Naomi Moonen)
 
-Gunel Nabiyeva, Thesis in progress (w/ Naomi Moonen)
+Gunel Nabiyeva, "Effect of Language and Visuals in Reward-based Crowdfunding Campaigns" (w/ Naomi Moonen)
+
+Jan Smietana, "When Do Finance Professionals Rely on Generative AI? A TAM3 Perspective" (w/ Plato Leung)
 
 Fabian Corsten, "Predicting Series A Funding Success: An Explainable Machine Learning Approach to Entrepreneurial Signaling" (w/ Naomi Moonen)
 
