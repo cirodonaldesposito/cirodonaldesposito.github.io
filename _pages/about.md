@@ -31,6 +31,6 @@ Hello! I'm Ciro, an Assistant Professor of Data Entrepreneurship at Tilburg Univ
 
 My research sits at the crossroads of entrepreneurship, innovation and data science. I study how entrepreneurs navigate uncertainty, from securing early funding and selecting strategic partners, to adapting to geopolitical shifts and the rise of AI. Across these topics, I use and combine quantitative, experimental, and computational methods, with a particular focus on Natural Language Processing (NLP) and, more recently, Large Language Models (LLMs), to study phenomena that are difficult to capture with traditional approaches. My work has been published in *Small Business Economics* and *PeerJ Computer Science*, and presented at leading management and entrepreneurship conferences, including AOM and BCERC.
 
-I currently teach Data-Driven Business Creation (BSc) and have previously taught Data Entrepreneurship in Action (MSc), both part of joint programmes by Tilburg University and TU/e Eindhoven. I have also mentored more than 35 master's and bachelor's students, some of whom have been finalists for prestigious thesis prizes.
+I have taught Data-Driven Business Creation (BSc) and Data Entrepreneurship in Action (MSc), both part of joint programmes by Tilburg University and TU/e Eindhoven. I have also mentored more than 40 master's and bachelor's students, some of whom have been finalists for prestigious thesis prizes.
 
 I hold a PhD in Economics and Business from the University of Amsterdam, and a master's and bachelor's degree in Economics from the University of Pavia.
