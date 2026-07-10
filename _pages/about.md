@@ -34,3 +34,5 @@ My research sits at the crossroads of entrepreneurship, innovation and data scie
 I have recently taught Data-Driven Business Creation (BSc) and previously Data Entrepreneurship in Action (MSc), both part of joint programmes by Tilburg University and TU/e Eindhoven. I have also mentored more than 40 master's and bachelor's students, some of whom have been finalists for prestigious thesis prizes.
 
 I hold a PhD in Economics and Business from the University of Amsterdam, and a master's and bachelor's degree in Economics from the University of Pavia.
+
+If you're interested in collaborating or just want to chat about research, feel free to reach out. I'm always happy to connect.
