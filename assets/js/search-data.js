@@ -86,6 +86,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-text-analysis",
+          title: 'Text analysis',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{id: "teachings-cases-in-entrepreneurship",
           title: 'Cases in Entrepreneurship',
           description: "",
