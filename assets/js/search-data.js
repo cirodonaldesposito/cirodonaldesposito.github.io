@@ -85,7 +85,7 @@ ninja.data = [{
           title: 'Artificial Intelligence',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-cases-in-entrepreneurship",
           title: 'Cases in Entrepreneurship',
           description: "",
