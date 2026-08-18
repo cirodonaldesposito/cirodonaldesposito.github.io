@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Text analysis
+title: Natural Language Processing
 description: 
 img: assets/img/7.jpg
 redirect: https://cirodonaldesposito.github.io/projects/
