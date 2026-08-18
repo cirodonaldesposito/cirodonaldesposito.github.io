@@ -75,7 +75,7 @@ ninja.data = [{
           title: 'Natural Language Processing',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/31_project/";
             },},{id: "projects-artificial-intelligence",
           title: 'Artificial Intelligence',
           description: "",
